@@ -1,0 +1,15 @@
+com.uptrillion.sdk.authentication
+com.uptrillion.sdk.client
+com.uptrillion.sdk.comm
+com.uptrillion.sdk.device
+com.uptrillion.sdk.online
+com.uptrillion.sdk.online.connect
+com.uptrillion.sdk.online.exception
+com.uptrillion.sdk.online.interceptor
+com.uptrillion.sdk.payment
+com.uptrillion.sdk.payment.entity
+com.uptrillion.sdk.payment.entity.baseModel
+com.uptrillion.sdk.payment.entity.model
+com.uptrillion.sdk.payment.entity.model.extData
+com.uptrillion.sdk.payment.reader
+com.uptrillion.sdk.payment.transcation
